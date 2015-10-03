@@ -1,4 +1,4 @@
-![demain-a-la-une](https://raw.githubusercontent.com/EarlyEdition/EarlyEdition/master/profile1.jpg)
+![demain-a-la-une](https://raw.githubusercontent.com/EarlyEdition/EarlyEdition/master/profile2.jpg)
 
 👋 My name is Gary Hobson.
 📰 I get tomorrow's newspaper today.
